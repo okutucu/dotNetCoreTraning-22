@@ -1,0 +1,8 @@
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\bin\Debug\typeConversions.exe.config
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\bin\Debug\typeConversions.exe
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\bin\Debug\typeConversions.pdb
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\obj\Debug\typeConversions.csproj.AssemblyReference.cache
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\obj\Debug\typeConversions.csproj.SuggestedBindingRedirects.cache
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\obj\Debug\typeConversions.csproj.CoreCompileInputs.cache
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\obj\Debug\typeConversions.exe
+C:\Users\silve\Documents\GitHub\dotNet\typeConversions\typeConversions\obj\Debug\typeConversions.pdb

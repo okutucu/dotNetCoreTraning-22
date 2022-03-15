@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5eaa0231-b697-4332-aeb5-4c26a419c9e1": {
+      "ProjectGuid": "5eaa0231-b697-4332-aeb5-4c26a419c9e1",
+      "DisplayName": "Debugging-Watch-Variables",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

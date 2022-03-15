@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db443c8d-1801-464c-bd7e-92282e0b8e9b": {
+      "ProjectGuid": "db443c8d-1801-464c-bd7e-92282e0b8e9b",
+      "DisplayName": "If-Elseif-Ternary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
