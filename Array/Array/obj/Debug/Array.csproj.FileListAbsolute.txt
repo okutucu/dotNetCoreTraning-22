@@ -1,0 +1,8 @@
+C:\dotNetCoreTraning-22\Array\Array\bin\Debug\Array.exe.config
+C:\dotNetCoreTraning-22\Array\Array\bin\Debug\Array.exe
+C:\dotNetCoreTraning-22\Array\Array\bin\Debug\Array.pdb
+C:\dotNetCoreTraning-22\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\dotNetCoreTraning-22\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+C:\dotNetCoreTraning-22\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\dotNetCoreTraning-22\Array\Array\obj\Debug\Array.exe
+C:\dotNetCoreTraning-22\Array\Array\obj\Debug\Array.pdb
