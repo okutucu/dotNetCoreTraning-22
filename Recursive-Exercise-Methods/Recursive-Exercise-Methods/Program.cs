@@ -47,6 +47,7 @@ namespace Recursive_Exercise_Methods
             dizi.EkranaYazdir();
 
 
+
         }
     }
 
