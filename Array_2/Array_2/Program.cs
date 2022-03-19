@@ -10,39 +10,55 @@ namespace Array_2
     {
         static void Main(string[] args)
         {
-            int[] sayiDizisi = { 23, 12, 4, 86, 72, 3, 11, 17 };
+            //int[] sayiDizisi = { 23, 12, 4, 86, 72, 3, 11, 17 };
 
-            foreach (var item in sayiDizisi)
-            {
-                Console.WriteLine(item);
-            }
-
-
-            Array.Sort(sayiDizisi);
-
-            foreach (var item in sayiDizisi)
-            {
-                Console.WriteLine(item);
-            }
-
-            Array.Clear(sayiDizisi, 2, 2);
-
-            foreach (var item in sayiDizisi)
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (var item in sayiDizisi)
+            //{
+            //    Console.WriteLine(item);
+            //}
 
 
-            Array.Reverse(sayiDizisi);
+            //Array.Sort(sayiDizisi);
 
-            foreach (var item in sayiDizisi)
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (var item in sayiDizisi)
+            //{
+            //    Console.WriteLine(item);
+            //}
 
-            Console.WriteLine(Array.IndexOf(sayiDizisi,23));
+            //Array.Clear(sayiDizisi, 2, 2);
 
-            Array.Resize<int>(ref sayiDizisi, 9);
+            //foreach (var item in sayiDizisi)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+            //Array.Reverse(sayiDizisi);
+
+            //foreach (var item in sayiDizisi)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //Console.WriteLine(Array.IndexOf(sayiDizisi,23));
+
+            //Array.Resize<int>(ref sayiDizisi, 9);
+
+
+
+            int[] s1 = { 3, 2, 3,2,7};
+            int[] s2 = { 1, 2, 5,1,8};
+
+           
+
+
+
+
+            
+
+            
+
+            
         }
     }
 }
