@@ -1,0 +1,8 @@
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\bin\Debug\Proje-1.exe.config
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\bin\Debug\Proje-1.exe
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\bin\Debug\Proje-1.pdb
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\obj\Debug\Proje-1.csproj.AssemblyReference.cache
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\obj\Debug\Proje-1.csproj.SuggestedBindingRedirects.cache
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\obj\Debug\Proje-1.csproj.CoreCompileInputs.cache
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\obj\Debug\Proje-1.exe
+C:\dotNetCoreTraning-22\Proje-1\Proje-1\obj\Debug\Proje-1.pdb
