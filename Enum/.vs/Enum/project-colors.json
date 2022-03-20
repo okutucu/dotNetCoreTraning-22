@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cff0f71c-7b1d-452f-839b-ec62c5f999fd": {
+      "ProjectGuid": "cff0f71c-7b1d-452f-839b-ec62c5f999fd",
+      "DisplayName": "Enum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
