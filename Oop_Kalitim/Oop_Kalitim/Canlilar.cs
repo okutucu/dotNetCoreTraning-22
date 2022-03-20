@@ -22,5 +22,10 @@ namespace Oop_Kalitim
         {
             Console.WriteLine("Canlılar Boşaltım Yapar.");
         }
+
+        public virtual void UyaranlaraTepki()
+        {
+            Console.WriteLine("Canlılar Uyaranlara tepki verir");
+        }
     }
 }

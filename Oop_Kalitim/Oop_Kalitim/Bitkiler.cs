@@ -13,6 +13,12 @@ namespace Oop_Kalitim
         {
             Console.WriteLine("Bitkiler Fotosentez yapar.");
         }
+
+        public override void UyaranlaraTepki()
+        {
+            //base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiker güneşe tepki verir.");
+        }
     }
 
     public class TohumluBitkiler:Bitkiler
@@ -38,6 +44,7 @@ namespace Oop_Kalitim
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
         }
         public void SporlaÇoğalma()
         {

@@ -13,6 +13,12 @@ namespace Oop_Kalitim
         {
             Console.WriteLine("Hayvanlar Adaptasyon kurabilir");
         }
+
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki();
+            Console.WriteLine("Hayvanlar temesa tepki verir.");
+        }
     }
     public class Surungenler:Hayvanlar
     {
@@ -22,6 +28,7 @@ namespace Oop_Kalitim
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+          
         }
         public void SurunerekHareketEderler()
         {
