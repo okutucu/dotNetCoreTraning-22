@@ -1,0 +1,8 @@
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe.config
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.pdb
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.SuggestedBindingRedirects.cache
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.exe
+C:\dotNetCoreTraning-22\Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.pdb
